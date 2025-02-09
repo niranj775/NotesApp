@@ -1,1 +1,1 @@
-console.log("Script File is linked");;
+console.log("Script File is linked");
